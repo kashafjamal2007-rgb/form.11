@@ -284,7 +284,8 @@
 
  @media (max-width: 600px) {
    .container {
-     margin: 35px auto;
+     /* margin: 35px auto; */
+     width: 100%;
    }
 
    h1 {
